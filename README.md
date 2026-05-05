@@ -12,7 +12,7 @@ Jika Anda ingin mengembangkan atau menjalankan project ini di komputer Anda send
 
 ### 1. Prasyarat
 Pastikan Anda sudah menginstall:
-- [Node.js](https://nodejs.org/) (versi 18 ke atas)
+- [Node.js](https://nodejs.org/) (versi 18 ke atas) 
 - [Git](https://git-scm.com/)
 
 ### 2. Install Project
